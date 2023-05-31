@@ -47,3 +47,5 @@ Cópia de um repositório remoto sem afetar o repositório principal
 
 Pull: 
 Puxa a atualização do código 
+
+Git Bash é um terminal para otimizar o uso do Git
